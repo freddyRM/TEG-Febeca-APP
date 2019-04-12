@@ -1,0 +1,27 @@
+{
+	"nativescript-exoplayer": {
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-exoplayer\\platforms\\android\\include.gradle": "850c609c98a496379abac3ffaa1ef1cd65452896"
+	},
+	"nativescript-telerik-ui": {
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-telerik-ui\\platforms\\android\\Common-2017.1.1003-dev-release.aar": "a830a60f419d974266360ef946e5f4eae14bc01b",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-telerik-ui\\platforms\\android\\Data-2017.1.1003-dev-release.aar": "31fbbcd464be584cb817abfea59597b702110994",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-telerik-ui\\platforms\\android\\include.gradle": "310403eebf414780269c583447d82de90b432c4c",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-telerik-ui\\platforms\\android\\List-2017.1.1003-dev-release.aar": "daeae11a2e6ed11ff4b91043b240b71782ac1ebb",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-telerik-ui\\platforms\\android\\Primitives-2017.1.1003-dev-release.aar": "ad497928c38a6b6ef57b2df14e81561f0b17fe49"
+	},
+	"nativescript-vidplayer": {
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-vidplayer\\platforms\\android\\include.gradle": "7780538bf60ad43a339c0077606fb281207ec401",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-vidplayer\\platforms\\android\\src\\main\\AndroidManifest.xml": "822992f680fc76370efce4ea941530758011b4d6",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\nativescript-vidplayer\\platforms\\android\\src\\main\\assets\\app\\App_Resources\\Android\\AndroidManifest.xml": "822992f680fc76370efce4ea941530758011b4d6"
+	},
+	"tns-core-modules-snapshot": {
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-snapshot\\platforms\\android\\include.gradle": "5b940e2c24958707265f0be6e2a15414d26c267e",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-snapshot\\platforms\\android\\tns_core_modules_snapshot.aar": "6df0b7a6175ef3f4f44526cf1e04bdcf9aaf2ba1",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-snapshot\\platforms\\android\\jniLibs\\x86\\libsnapshot.so": "6d033aafa97bdba49b0eb8117a758e9fb09229a1",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-snapshot\\platforms\\android\\jniLibs\\armeabi-v7a\\libsnapshot.so": "eb423c349ca2c1c6a8d14a7166c34a870b4f653a",
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-snapshot\\platforms\\android\\jniLibs\\arm64-v8a\\libsnapshot.so": "9e7a34db2073d89a2167ed0b7b5af344d8a3f5fb"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\Freddy\\Desktop\\TegApp\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "7a062e96fe7b542638c6a6570de1531521a7307b"
+	}
+}

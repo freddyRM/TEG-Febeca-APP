@@ -1,0 +1,25 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 	
+    xmlns:lv="nativescript-telerik-ui/listview"
+	navigatingTo="onNavigatingTo"	
+	>
+
+	<ActionBar id="barra" title="Categorías" class="{{ cssClass }}">
+	</ActionBar>    
+    
+	<StackLayout>
+		<Image width="100%" height="100" stretch="aspectFit" src="{{ logo }}" />
+		<ActivityIndicator width="100" height="100" horizontalAlignment="center" visibility="{{ busy ? 'visible' : 'collapse' }}" busy="{{ busy }}" ></ActivityIndicator>
+		<lv:RadListView height="100%" selectionBehavior="Press" items="{{ categorias }}" id="lvwCategorias" >			
+	        <lv:RadListView.listViewLayout>
+	            <lv:ListViewGridLayout scrollDirection="Vertical" spanCount="*"/>
+	        </lv:RadListView.listViewLayout>
+	        <lv:RadListView.itemTemplate>
+				<StackLayout margin="10dp" class="cat" tap="onItemTap">
+					<Image dock="left" height="50" src="{{ imageSrc }}" />
+					<Label  class="descripcion" text="{{ descripcion }}" textWrap="true"/>
+				</StackLayout>
+	        </lv:RadListView.itemTemplate>			
+	    </lv:RadListView>
+	</StackLayout>
+
+</Page>

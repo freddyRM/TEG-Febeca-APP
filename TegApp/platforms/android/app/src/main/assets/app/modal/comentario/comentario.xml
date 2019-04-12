@@ -1,0 +1,17 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 	    
+	shownModally="onShownModally"	
+	>	
+	<ActionBar />  
+	<StackLayout width="100%">
+		<Image id="happy" marginRight="5dp" marginTop="5dp" horizontalAlignment="right" height="30" src="{{ 'res://close' }}" tap="{{ closeModal }}" />
+		<Label marginLeft="10dp" text="Dame tu opinion"/>
+		<TextView text="{{ comentario }}" />
+		<Label marginLeft="10dp" text="Valoración del video" />
+		<StackLayout marginLeft="10dp" orientation="horizontal" marginTop="5dp">
+			<Image id="happy" height="40" src="{{ valoracion == 1 ? 'res://happy' : 'res://happy_u' }}" tap="{{ rateTap }}" marginRight="5dp" />
+			<Image id="neutral" height="40" src="{{ valoracion == 0 ? 'res://neutral' : 'res://neutral_u' }}" tap="{{ rateTap }}" marginRight="5dp" />
+			<Image id="sad" height="40" src="{{ valoracion == -1 ? 'res://sad' : 'res://sad_u' }}" tap="{{ rateTap }}" marginRight="5dp" />
+		</StackLayout>
+		<Button class="btn cyan" text="Enviar" tap="{{ comentar }}" width="60%"/>
+	</StackLayout>
+</Page>

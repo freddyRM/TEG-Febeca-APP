@@ -1,0 +1,4 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+   <Placeholder height="280" creatingView="createVideoView"/>
+
+</Page>

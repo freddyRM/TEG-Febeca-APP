@@ -1,0 +1,83 @@
+{
+  "_from": "nativescript-vidplayer",
+  "_id": "nativescript-vidplayer@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-nw4tORH42UyIp0/1QiYnUrzCOXk=",
+  "_location": "/nativescript-vidplayer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-vidplayer",
+    "name": "nativescript-vidplayer",
+    "escapedName": "nativescript-vidplayer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-vidplayer/-/nativescript-vidplayer-1.0.7.tgz",
+  "_shasum": "9f0e2d3911f8d94c88a74ff542262752bcc23979",
+  "_spec": "nativescript-vidplayer",
+  "_where": "C:\\Users\\Freddy\\Desktop\\TegApp",
+  "author": {
+    "name": "Win Min Tun",
+    "email": "sawrochelais@gmail.com"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/win_min_tun/nativescript-vidplayer/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "nativescript-screen-orientation": "^1.0.2"
+  },
+  "deprecated": false,
+  "description": "NativeScript video player with fullscreen support",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^2.2.1",
+    "tns-platform-declarations": "^2.2.0",
+    "typescript": "^1.8.10"
+  },
+  "homepage": "https://bitbucket.org/win_min_tun/nativescript-vidplayer",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "Video",
+    "Player",
+    "Fullscreen"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://bitbucket.org/win_min_tun/nativescript-vidplayer/src/6246d11e592626b37c72996bbb82914aa86d8b56/LICENSE"
+  },
+  "main": "vidplayer.js",
+  "name": "nativescript-vidplayer",
+  "nativescript": {
+    "platforms": {
+      "android": "2.1.1",
+      "ios": "2.2.1"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/win_min_tun/nativescript-vidplayer.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "demo.ios.device": "npm run preparedemo && cd demo && tns run ios",
+    "postclone": "npm i && node scripts/postclone.js",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-vidplayer && tns plugin add .. && tns install",
+    "setup": "npm i && cd demo && npm i && cd .. && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.7"
+}

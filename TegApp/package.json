@@ -1,0 +1,30 @@
+{
+    "nativescript": {
+        "id": "org.nativescript.TegApp",
+        "tns-ios": {
+            "version": "4.2.0"
+        },
+        "tns-android": {
+            "version": "4.2.0"
+        }
+    },
+    "description": "NativeScript Application",
+    "license": "SEE LICENSE IN <your-license-filename>",
+    "repository": "<fill-your-repository-here>",
+    "dependencies": {
+        "nativescript-drop-down": "^4.0.1",
+        "nativescript-exoplayer": "^3.4.1",
+        "nativescript-orientation": "^2.2.1",
+        "nativescript-permissions": "^1.2.3",
+        "nativescript-screen-orientation": "^2.0.0",
+        "nativescript-telerik-ui": "^3.1.4",
+        "nativescript-theme-core": "~1.0.4",
+        "nativescript-toast": "^1.4.6",
+        "nativescript-videoplayer": "^4.2.0",
+        "nativescript-vidplayer": "^1.0.7",
+        "tns-core-modules": "~4.2.0",
+        "tns-core-modules-snapshot": "^2.5.3-5.5.372.32",
+        "tns-core-modules-widgets": "^4.2.0"
+    },
+    "readme": "NativeScript Application"
+}

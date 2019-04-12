@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-2.6.1.aar\bab81ffb9fd818c94f58d4d352a7a080\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7b5386278ef01a35facb59d1ab2cc29d\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.rtoshiro.fullscreenvideoview:fullscreenvideoview:1.1.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\fullscreenvideoview-1.1.2.aar\b93266099cc7f937e71300d9403f0416\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\843354000e92b1ed6916b62887fc4926\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\f6fb3c41741bd16af63820b59458b18e\AndroidManifest.xml:2:1-11:12
+MERGED from [:Common-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Common-2017.1.1003-dev-release.aar\be8149e28efe051aa6a49ac66375bd7a\AndroidManifest.xml:2:1-14:12
+MERGED from [:Data-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Data-2017.1.1003-dev-release.aar\bdde224ca174937ae73cba38b52f6b39\AndroidManifest.xml:2:1-14:12
+MERGED from [:List-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\List-2017.1.1003-dev-release.aar\a4d756dd3dcb2a0f239cfe983ad8dda9\AndroidManifest.xml:2:1-14:12
+MERGED from [:Primitives-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Primitives-2017.1.1003-dev-release.aar\4998be0d2ec9f564628ec5d5e6c3325d\AndroidManifest.xml:2:1-14:12
+MERGED from [:tns_core_modules_snapshot:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\tns_core_modules_snapshot.aar\6a91a703515e0df0ec10233cefe655e1\AndroidManifest.xml:2:1-9:12
+MERGED from [:widgets-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\04da48d07eac73a77085bc30a3b28b3f\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.6.1.aar\dfe9c56d6f7971de54f8d48b93107e18\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.6.1.aar\b692a0b664cf4b3962a8580f37e22b13\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.6.1.aar\21e92d7e58b48919f016254d7e448c6a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.6.1.aar\5007baa7b7cd804a3b908f1ffe6fd7ff\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.6.1.aar\01f2b5a4ce7d4af9a3abc5ab242a4762\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:3:2-35
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-2.6.1.aar\bab81ffb9fd818c94f58d4d352a7a080\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-2.6.1.aar\bab81ffb9fd818c94f58d4d352a7a080\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7b5386278ef01a35facb59d1ab2cc29d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7b5386278ef01a35facb59d1ab2cc29d\AndroidManifest.xml:20:5-43
+MERGED from [com.github.rtoshiro.fullscreenvideoview:fullscreenvideoview:1.1.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\fullscreenvideoview-1.1.2.aar\b93266099cc7f937e71300d9403f0416\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rtoshiro.fullscreenvideoview:fullscreenvideoview:1.1.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\fullscreenvideoview-1.1.2.aar\b93266099cc7f937e71300d9403f0416\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\843354000e92b1ed6916b62887fc4926\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\843354000e92b1ed6916b62887fc4926\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\f6fb3c41741bd16af63820b59458b18e\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\f6fb3c41741bd16af63820b59458b18e\AndroidManifest.xml:7:5-9:41
+MERGED from [:Common-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Common-2017.1.1003-dev-release.aar\be8149e28efe051aa6a49ac66375bd7a\AndroidManifest.xml:7:5-9:41
+MERGED from [:Common-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Common-2017.1.1003-dev-release.aar\be8149e28efe051aa6a49ac66375bd7a\AndroidManifest.xml:7:5-9:41
+MERGED from [:Data-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Data-2017.1.1003-dev-release.aar\bdde224ca174937ae73cba38b52f6b39\AndroidManifest.xml:7:5-9:41
+MERGED from [:Data-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Data-2017.1.1003-dev-release.aar\bdde224ca174937ae73cba38b52f6b39\AndroidManifest.xml:7:5-9:41
+MERGED from [:List-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\List-2017.1.1003-dev-release.aar\a4d756dd3dcb2a0f239cfe983ad8dda9\AndroidManifest.xml:7:5-9:41
+MERGED from [:List-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\List-2017.1.1003-dev-release.aar\a4d756dd3dcb2a0f239cfe983ad8dda9\AndroidManifest.xml:7:5-9:41
+MERGED from [:Primitives-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Primitives-2017.1.1003-dev-release.aar\4998be0d2ec9f564628ec5d5e6c3325d\AndroidManifest.xml:7:5-9:41
+MERGED from [:Primitives-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Primitives-2017.1.1003-dev-release.aar\4998be0d2ec9f564628ec5d5e6c3325d\AndroidManifest.xml:7:5-9:41
+MERGED from [:tns_core_modules_snapshot:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\tns_core_modules_snapshot.aar\6a91a703515e0df0ec10233cefe655e1\AndroidManifest.xml:7:5-47
+MERGED from [:tns_core_modules_snapshot:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\tns_core_modules_snapshot.aar\6a91a703515e0df0ec10233cefe655e1\AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\04da48d07eac73a77085bc30a3b28b3f\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\04da48d07eac73a77085bc30a3b28b3f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.6.1.aar\dfe9c56d6f7971de54f8d48b93107e18\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.6.1.aar\dfe9c56d6f7971de54f8d48b93107e18\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.6.1.aar\b692a0b664cf4b3962a8580f37e22b13\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.6.1.aar\b692a0b664cf4b3962a8580f37e22b13\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.6.1.aar\21e92d7e58b48919f016254d7e448c6a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.6.1.aar\21e92d7e58b48919f016254d7e448c6a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.6.1.aar\5007baa7b7cd804a3b908f1ffe6fd7ff\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.6.1.aar\5007baa7b7cd804a3b908f1ffe6fd7ff\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.6.1.aar\01f2b5a4ce7d4af9a3abc5ab242a4762\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.6.1.aar\01f2b5a4ce7d4af9a3abc5ab242a4762\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:29:5-20
+MERGED from [:Common-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Common-2017.1.1003-dev-release.aar\be8149e28efe051aa6a49ac66375bd7a\AndroidManifest.xml:11:5-12:19
+MERGED from [:Common-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Common-2017.1.1003-dev-release.aar\be8149e28efe051aa6a49ac66375bd7a\AndroidManifest.xml:11:5-12:19
+MERGED from [:Data-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Data-2017.1.1003-dev-release.aar\bdde224ca174937ae73cba38b52f6b39\AndroidManifest.xml:11:5-12:19
+MERGED from [:Data-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Data-2017.1.1003-dev-release.aar\bdde224ca174937ae73cba38b52f6b39\AndroidManifest.xml:11:5-12:19
+MERGED from [:List-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\List-2017.1.1003-dev-release.aar\a4d756dd3dcb2a0f239cfe983ad8dda9\AndroidManifest.xml:11:5-12:19
+MERGED from [:List-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\List-2017.1.1003-dev-release.aar\a4d756dd3dcb2a0f239cfe983ad8dda9\AndroidManifest.xml:11:5-12:19
+MERGED from [:Primitives-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Primitives-2017.1.1003-dev-release.aar\4998be0d2ec9f564628ec5d5e6c3325d\AndroidManifest.xml:11:5-12:19
+MERGED from [:Primitives-2017.1.1003-dev-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\Primitives-2017.1.1003-dev-release.aar\4998be0d2ec9f564628ec5d5e6c3325d\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\04da48d07eac73a77085bc30a3b28b3f\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\04da48d07eac73a77085bc30a3b28b3f\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\Freddy\Desktop\TegApp\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bfac1bd0826196c69983c78821098f97\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7b5386278ef01a35facb59d1ab2cc29d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\7b5386278ef01a35facb59d1ab2cc29d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\4bbc892fce75ce835682d87957a1af0c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07434708b3f010b66b47fddfdc286a2a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1f9b4a403f8f75441bbec701bdc0ea18\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ba42d5b621d4428d12bd9fef62ddb8bf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f83a19f5c6920d74b4184b3b7b2bdeff\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\c502b4139eed9c05b4395325138d2e22\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\867d6280cfba4c64459a37a87e8994b8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e0c8a7b889639b66bba9615a46e440\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\7dc240902131a15eab6b25d837a363af\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Freddy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\770d8e83e158fd3be41a0b661007e8f0\AndroidManifest.xml:26:9-47

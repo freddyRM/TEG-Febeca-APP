@@ -1,0 +1,132 @@
+/*inicio*/
+.page {
+  align-items: center;
+  flex-direction: column;
+}
+
+.form {
+  margin-left: 30;
+  margin-right: 30;
+  flex-grow: 2;
+  vertical-align: middle;
+}
+
+.logo-main {
+  /*margin-bottom: 12;*/
+  height: 90;
+  font-weight: bold;
+}
+
+.input-field {
+  margin-bottom: 25;
+}
+
+.Cambio {
+	color: red;
+}
+
+/*barra*/
+.barra{
+  font-size: 18 !important;
+}
+
+/*categoria*/
+.categorias{
+  height: 70;
+  color: black;
+  font-size: 16;
+}
+
+.cat{
+  text-align: center;
+  font-size: 16
+  color: black;
+}
+
+.categorias Image{
+  align-items: center;
+}
+
+/*videos*/
+.videos{
+    text-align: center;
+}
+
+.videos .nombre{
+  color: black;
+  font-size: 18;
+}
+
+.videos .descripcion{
+  color: black;
+  font-size: 14;
+}
+
+/*general*/
+.inicio{
+  text-align: center;
+  font-size: 18;
+  color: black;
+}
+
+Label{
+  font-size: 16;
+  color: black;
+}
+
+.cyan{
+  color:#FFF;
+  background-color: #28A745;
+}
+
+.actionbar{ 
+  background-color: #C6C6C5;
+  color: black;
+}
+
+.actionbar-febeca{
+  background-color: #009EE3;
+  color: white;
+}
+
+.actionbar-sillaca{
+  background-color: #E5007D;
+  color: white;
+}
+
+.actionbar-beval{
+  background-color: #CCDB2A;
+  color: white;
+}
+
+.actionbar-mundipartes{
+  background-color: #243D6A;
+  color: white;
+}
+
+.actionbar-prisma{
+  background-color: #707173;
+  color: black;
+}
+
+/*fecha caducidad*/
+.fecha{
+  background-color: red;
+  border-radius: 20px;
+  width: 70%;
+  text-align: center;
+  color:white;
+}
+
+#no_visto{
+  /*background-color: red;
+  padding: 10px;*/
+  width: 25px;
+  height: 25px;
+  /*border-radius: 50%;*/
+}
+
+#visto{
+  width: 25px;
+  height: 25px;
+}

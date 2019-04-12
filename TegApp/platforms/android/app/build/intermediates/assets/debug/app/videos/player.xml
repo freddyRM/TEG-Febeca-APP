@@ -1,0 +1,28 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:VideoPlayer="nativescript-videoplayer"
+      xmlns:exoplayer="nativescript-exoplayer"
+      xmlns:Video="nativescript-vidplayer"
+	    navigatingTo="onNavigatingTo"
+      navigatingFrom="onNavigatingFrom"
+      loaded="onLoaded">
+	  <ActionBar id="barra" title="{{ video.nombre }}" class="{{ cssClass }}" />
+        <ScrollView orientation="vertical">
+            <StackLayout>
+              
+              <android>
+                  <Placeholder id="video" height="280" horizontalAlignment="center" verticalAlignment="center" creatingView="createVideoView" />
+              </android>
+              
+            
+              <ios> 
+                  <ActivityIndicator width="100" height="280" horizontalAlignment="center" visibility="{{ busy ? 'visible' : 'collapse' }}" busy="{{ busy }}" ></ActivityIndicator>                       
+                  <VideoPlayer:Video id="video"
+                  controls="true" playbackReady="{{ videoReady }}"
+                  loop="false" autoplay="true" height="{{ busy ? 0 : 280 }}" 
+                  src="{{ src }}" />           
+              </ios>    
+               
+              <Button class="btn cyan" text="Enviar comentario" tap="{{ comentar }}" width="80%"/>
+            </StackLayout> 
+        </ScrollView>
+</Page>

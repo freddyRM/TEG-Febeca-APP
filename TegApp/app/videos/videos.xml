@@ -1,0 +1,33 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 	
+    xmlns:lv="nativescript-telerik-ui/listview"
+	navigatingTo="onNavigatingTo"	
+	>
+
+	<ActionBar id="barra" title="Video Tutoriales" class="{{ cssClass }}" />
+    
+    <StackLayout>
+		<StackLayout orientation="horizontal" horizontalAlignment="center">
+			<TextField verticalAlignment="center" width="60%" hint="Buscar..." text="{{ busqueda }}"  />
+			<Image marginLeft="10" verticalAlignment="center" height="30dp" src="res://search" tap="{{ buscarVideos }}" /> 
+		</StackLayout>		
+    	<ActivityIndicator width="100" height="100" horizontalAlignment="center" visibility="{{ busy ? 'visible' : 'collapse' }}" busy="{{ busy }}" ></ActivityIndicator>		
+		<lv:RadListView height="100%" selectionBehavior="Press" items="{{ videos }}" id="lvwCategorias" >			
+	        <lv:RadListView.listViewLayout>
+	            <lv:ListViewGridLayout scrollDirection="Vertical" spanCount="*"/>
+	        </lv:RadListView.listViewLayout>
+	        <lv:RadListView.itemTemplate>
+				<StackLayout margin="10dp"  tap="onItemTap">
+					<StackLayout id="{{ visto }}" stretchLastChild="true" horizontalAlignment="right" />
+					<Image  height="50" dock="left" class="videos" src="{{ imageSrc }}" />
+					<StackLayout class="videos cat">
+						<Label class="nombre" text="{{ nombre }}" textWrap="true" />					
+						<Label class="descripcion" text="{{ descripcion }}" textWrap="true" />
+						<Label id="fecha" visibility="{{ OK }}" class="fecha" text="{{ fecha_caducidad }}" textWrap="true" />
+					</StackLayout>
+
+				</StackLayout>
+	        </lv:RadListView.itemTemplate>			
+	    </lv:RadListView>
+	</StackLayout>
+
+</Page>

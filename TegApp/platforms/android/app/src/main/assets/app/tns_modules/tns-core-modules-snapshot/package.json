@@ -1,0 +1,40 @@
+{
+  "_from": "tns-core-modules-snapshot",
+  "_id": "tns-core-modules-snapshot@2.5.3-5.5.372.32",
+  "_inBundle": false,
+  "_integrity": "sha1-kl/uPVtpx+XluXLiyuT4/32Zk+g=",
+  "_location": "/tns-core-modules-snapshot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tns-core-modules-snapshot",
+    "name": "tns-core-modules-snapshot",
+    "escapedName": "tns-core-modules-snapshot",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tns-core-modules-snapshot/-/tns-core-modules-snapshot-2.5.3-5.5.372.32.tgz",
+  "_shasum": "925fee3d5b69c7e5e5b972e2cae4f8ff7d9993e8",
+  "_spec": "tns-core-modules-snapshot",
+  "_where": "C:\\Users\\Freddy\\Desktop\\TegApp",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "license": "Apache-2.0",
+  "name": "tns-core-modules-snapshot",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NativeScript/NativeScript/commit/519dd6374face0b3e3b9aa94ec55b7c290526d0e"
+  },
+  "version": "2.5.3-5.5.372.32"
+}

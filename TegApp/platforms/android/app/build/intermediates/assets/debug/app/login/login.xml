@@ -1,0 +1,26 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"    
+    navigatingTo="onNavigatingTo" 
+    actionBarHidden="true"  
+    >
+    <ActionBar />
+    <FlexboxLayout class="page">
+        <StackLayout class="form">	
+            
+            <Image src="res://logo" class="logo-main" width="180" height="180" />
+        	<Label class="inicio h2" text="APP Formación Virtual Mayoreo" textAlignment="center" textWrap="true"/>
+            <StackLayout class="input-field" orientation="horizontal" horizontalAlignment="center">
+                <Image height="30dp" src="res://user"/> 
+                <TextField class="user" hint="Usuario" text="{{ login }}" textAlignment="center" width="80%" />
+        	</StackLayout>
+
+            <StackLayout class="input-field" orientation="horizontal" horizontalAlignment="center">
+                <Image height="30dp" src="res://lock"/>
+                <TextField class="lock" hint="Clave" text="{{ clave }}" secure="true" textAlignment="center" width="80%" />
+        	</StackLayout>
+
+            <Button class="btn cyan" text="Ingresar" tap="{{ inicioSesion }}" width="60%" />
+
+        </StackLayout>
+    </FlexboxLayout>
+
+</Page>

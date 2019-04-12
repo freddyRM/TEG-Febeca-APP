@@ -1,0 +1,29 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 	
+    xmlns:lv="nativescript-telerik-ui/listview"
+	navigatingTo="onNavigatingTo"	
+	>
+
+	<ActionBar id="barra" title="Seleccionar" class="{{ cssClass }}" />    
+    
+	<StackLayout>
+		<Image width="100%" height="100" stretch="aspectFit" src="{{ logo }}" />
+		<!-- <DockLayout class="categorias" tap="onVideoTap">					
+			<Image dock="left" height="80%" src="{{ imageSrc }}" />
+			<Label verticalAlignment="center" dock="left" text="Videos" />
+		</DockLayout>
+		<DockLayout class="categorias" tap="onDocumentoTap">					
+			<Image dock="left" height="80%" src="{{ imageSrc }}" />
+			<Label verticalAlignment="center" dock="left" text="Documentos" />
+		</DockLayout> -->
+
+		<DockLayout marginLeft="10dp" marginTop="15dp" class="categorias" tap="onVideoTap">	
+			<Image dock="left" height="50" src="{{ imageSrc }}" />
+			<Label marginLeft="10dp" verticalAlignment="center" dock="left" text="Videos" />
+		</DockLayout>
+		<DockLayout marginLeft="10dp" marginTop="15dp" class="categorias" tap="onDocumentoTap">					
+			<Image dock="left" height="50" src="{{ imageSrc }}" />
+			<Label marginLeft="10dp" verticalAlignment="center" dock="left" text="Documentos" />
+		</DockLayout>	
+	</StackLayout>
+	
+</Page>

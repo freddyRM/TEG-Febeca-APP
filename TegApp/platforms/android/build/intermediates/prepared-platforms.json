@@ -1,0 +1,17 @@
+{
+    "nativescript-drop-down": true,
+    "nativescript-exoplayer": true,
+    "nativescript-orientation": true,
+    "nativescript-permissions": true,
+    "nativescript-screen-orientation": true,
+    "nativescript-telerik-ui": true,
+    "nativescript-theme-core": true,
+    "nativescript-toast": true,
+    "nativescript-videoplayer": true,
+    "nativescript-vidplayer": true,
+    "tns-core-modules": true,
+    "tns-core-modules-snapshot": true,
+    "tns-core-modules-widgets": true,
+    "nativescript-dom": true,
+    "nativescript-globalevents": true
+}

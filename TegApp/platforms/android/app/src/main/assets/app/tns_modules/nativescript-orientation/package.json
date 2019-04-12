@@ -1,0 +1,111 @@
+{
+  "_from": "nativescript-orientation",
+  "_id": "nativescript-orientation@2.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-VnQ6QTzyAex6arb5Pw6GXSFZzyj/KkAI6gdkLApFiwQq6pi/wYoTGTxL28zFCDb22J669wnZHEZeedfrWgu22g==",
+  "_location": "/nativescript-orientation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-orientation",
+    "name": "nativescript-orientation",
+    "escapedName": "nativescript-orientation",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-orientation/-/nativescript-orientation-2.2.1.tgz",
+  "_shasum": "d8619e078010413fbfb2b245621b62a7b13d6153",
+  "_spec": "nativescript-orientation",
+  "_where": "C:\\Users\\Freddy\\Desktop\\TegApp",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-orientation/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ashton Cummings",
+      "email": "acummings@colsa.com",
+      "url": "https://github.com/prolink007"
+    },
+    {
+      "name": "Dick Smith",
+      "email": "richard.smith@ugroupmedia.com",
+      "url": "https://github.com/DickSmith"
+    },
+    {
+      "name": "Dimitar Tachev",
+      "email": "Dimitar.Tachev@progress.com",
+      "url": "https://github.com/DimitarTachev"
+    },
+    {
+      "name": "Emiel Beeksma",
+      "email": "emielb@users.noreply.github.com",
+      "url": "https://github.com/emielb"
+    },
+    {
+      "name": "Zsolt Racz",
+      "email": "rzsolt2@hotmail.com",
+      "url": "https://github.com/zsolt-racz"
+    },
+    {
+      "name": "Brad Martin",
+      "email": "bmartin@nstudio.io",
+      "url": "https://github.com/bradmartin"
+    },
+    {
+      "name": "Brad Linard",
+      "email": "brad.linard@idelata.com",
+      "url": "https://github.com/blinard"
+    }
+  ],
+  "dependencies": {
+    "nativescript-dom": "^2.0.0",
+    "nativescript-globalevents": "^1.2.1"
+  },
+  "deprecated": false,
+  "description": "A NativeScript plugin to deal with Declarative UI and Screen Orientation",
+  "devDependencies": {},
+  "homepage": "https://github.com/nathanaela/nativescript-orientation",
+  "keywords": [
+    "NativeScript",
+    "orientation",
+    "landscape",
+    "ios",
+    "android"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nathanaela/nativescript-orientation/blob/master/LICENSE"
+  },
+  "main": "orientation",
+  "name": "nativescript-orientation",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "vue": "true",
+      "core3": "true",
+      "category": "Processing"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanaela/nativescript-orientation.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.2.1"
+}

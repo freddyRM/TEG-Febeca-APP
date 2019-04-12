@@ -1,0 +1,47 @@
+<StackLayout>
+  <ScrollView orientation="vertical">
+  <StackLayout cssClass="drawerContent">
+  
+    <Image width="200px" src="~/images/nav.png" />
+    <StackLayout orientation="horizontal" cssClass="sidebar-guest">
+      <Label id="username" loaded="usernames" textWrap="true"/>
+    </StackLayout>
+
+    <!--
+    <StackLayout orientation="horizontal" cssClass="drawerSectionHeader">
+      <Label text="Main Menu" cssClass="drawerSectionItem" tap="mainMenu" />
+    </StackLayout>
+    -->
+	 <StackLayout loaded="profileLoaded" orientation="horizontal" cssClass="drawerSectionItem" tap="profile" >
+      <Image cssClass="sideicon" src="res://ic_profile" />
+      <Label verticalAlignment="center" text="Profile Settings" />
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" cssClass="drawerSectionItem" tap="myProjects" >
+      <Image cssClass="sideicon" src="res://ic_dashboard" />
+      <Label verticalAlignment="center" text="My Dashboard" />
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" cssClass="drawerSectionItem" tap="newEstimate" >
+      <Image cssClass="sideicon" src="res://ic_estimate" />
+      <Label verticalAlignment="center" text="Remodeling Calculator" />
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" cssClass="drawerSectionItem" tap="findPro" >
+      <Image cssClass="sideicon" src="res://ic_find" />
+      <Label verticalAlignment="center" text="Find a Pro" />
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" cssClass="drawerSectionItem" tap="requestQuote" >
+      <Image cssClass="sideicon" src="res://ic_quote" />
+      <Label verticalAlignment="center" text="Request a Quote" />
+    </StackLayout>
+
+    <StackLayout orientation="horizontal" cssClass="drawerSectionItemLast" tap="signOut" >
+      <Image cssClass="sideicon" src="res://ic_logout" />
+      <Label verticalAlignment="center" text="Sign out" />                
+    </StackLayout>
+  </StackLayout>
+  
+</ScrollView>
+</StackLayout>
